@@ -3,7 +3,7 @@ Atividade Pratica - Comparacao de Desempenho Threads
 <h2>Integrantes do Grupo:</h2>
 <h3><strong>Roberto Zhou</strong></h3>
 <h3><strong>Matheus de Bortoli Silva</strong></h3>
-<h2>Tabela de execução</h2>
+<h1>Tabela de execução</h1>
 <table>
   <thead>
     <tr>
