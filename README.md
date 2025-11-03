@@ -1,5 +1,8 @@
 # Atividade-Desempenho_Threads
 Atividade Pratica - Comparacao de Desempenho Threads
+<h2>Integrantes do Grupo:</h2>
+<h3><strong>Roberto Zhou</strong></h3>
+<h3><strong>Matheus de Bortoli Silva</strong></h3>
 
 Segue abaixo os gráficos do desempenho do sistema
 <img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/0596d814-6c31-4d60-9164-33d8fd0203b7" />
